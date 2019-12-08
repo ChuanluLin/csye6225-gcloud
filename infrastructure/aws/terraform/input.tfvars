@@ -1,5 +1,0 @@
-project = "gcpdemo-261401"
-region= "us-east4"
-vpc_name = "GCPdemo"
-subnet1_cidr_block = "10.0.1.0/24"
-subnet2_cidr_block = "10.0.2.0/24"
